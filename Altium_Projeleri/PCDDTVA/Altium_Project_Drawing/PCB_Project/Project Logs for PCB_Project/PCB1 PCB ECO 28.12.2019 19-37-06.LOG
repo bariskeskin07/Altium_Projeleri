@@ -1,0 +1,76 @@
+Added Component: Designator=*U101(SOT23-5)
+Added Component: Designator=*U102(SOT23-6)
+Added Component: Designator=C101(CAPC1608X90N)
+Added Component: Designator=C102(CAPC1608X90N)
+Added Component: Designator=C103(CAPC1608X90N)
+Added Component: Designator=C104(CAPC1608X90N)
+Added Component: Designator=C105(CAPC1608X90N)
+Added Component: Designator=D101(LED-0805-K)
+Added Component: Designator=D102(DO-214AC)
+Added Component: Designator=L1(INDM2520X190N)
+Added Component: Designator=P101(HDR1X2)
+Added Component: Designator=P102(HDR1X2)
+Added Component: Designator=P103(HDR1X2)
+Added Component: Designator=Q101(SOT23-3)
+Added Component: Designator=R102(RESC2012N_ZERO)
+Added Component: Designator=R103(RESC2012N_ZERO)
+Added Component: Designator=R104(RESC2012N_ZERO)
+Added Component: Designator=R105(RESC2012N_ZERO)
+Added Component: Designator=R106(RESC2012N_ZERO)
+Added Pin To Net: NetName=BAT+ Pin=*U102-3
+Added Pin To Net: NetName=BAT+ Pin=*U102-6
+Added Pin To Net: NetName=BAT+ Pin=C103-1
+Added Pin To Net: NetName=BAT+ Pin=C104-1
+Added Pin To Net: NetName=BAT+ Pin=D102-K
+Added Pin To Net: NetName=BAT+ Pin=L1-1
+Added Pin To Net: NetName=BAT+ Pin=P102-1
+Added Pin To Net: NetName=BAT+ Pin=Q101-2
+Added Net: Name=BAT+
+Added Pin To Net: NetName=BAT- Pin=*U101-2
+Added Pin To Net: NetName=BAT- Pin=*U102-2
+Added Pin To Net: NetName=BAT- Pin=C102-2
+Added Pin To Net: NetName=BAT- Pin=C103-2
+Added Pin To Net: NetName=BAT- Pin=C104-2
+Added Pin To Net: NetName=BAT- Pin=C105-2
+Added Pin To Net: NetName=BAT- Pin=P102-2
+Added Pin To Net: NetName=BAT- Pin=P103-2
+Added Pin To Net: NetName=BAT- Pin=R103-2
+Added Pin To Net: NetName=BAT- Pin=R104-2
+Added Pin To Net: NetName=BAT- Pin=R106-2
+Added Net: Name=BAT-
+Added Pin To Net: NetName=GND Pin=C101-2
+Added Pin To Net: NetName=GND Pin=P101-2
+Added Net: Name=GND
+Added Pin To Net: NetName=Net*U101_1 Pin=*U101-1
+Added Pin To Net: NetName=Net*U101_1 Pin=R102-2
+Added Net: Name=Net*U101_1
+Added Pin To Net: NetName=Net*U101_3 Pin=*U101-3
+Added Pin To Net: NetName=Net*U101_3 Pin=C102-1
+Added Pin To Net: NetName=Net*U101_3 Pin=Q101-3
+Added Net: Name=Net*U101_3
+Added Pin To Net: NetName=Net*U101_5 Pin=*U101-5
+Added Pin To Net: NetName=Net*U101_5 Pin=R103-1
+Added Net: Name=Net*U101_5
+Added Pin To Net: NetName=Net*U102_1 Pin=*U102-1
+Added Pin To Net: NetName=Net*U102_1 Pin=L1-2
+Added Net: Name=Net*U102_1
+Added Pin To Net: NetName=Net*U102_4 Pin=*U102-4
+Added Pin To Net: NetName=Net*U102_4 Pin=R105-2
+Added Pin To Net: NetName=Net*U102_4 Pin=R106-1
+Added Net: Name=Net*U102_4
+Added Pin To Net: NetName=NetD101_K Pin=D101-K
+Added Pin To Net: NetName=NetD101_K Pin=R102-1
+Added Net: Name=NetD101_K
+Added Pin To Net: NetName=OUT+ Pin=*U102-5
+Added Pin To Net: NetName=OUT+ Pin=C105-1
+Added Pin To Net: NetName=OUT+ Pin=P103-1
+Added Pin To Net: NetName=OUT+ Pin=R105-1
+Added Net: Name=OUT+
+Added Pin To Net: NetName=VCC Pin=*U101-4
+Added Pin To Net: NetName=VCC Pin=C101-1
+Added Pin To Net: NetName=VCC Pin=D101-A
+Added Pin To Net: NetName=VCC Pin=D102-A
+Added Pin To Net: NetName=VCC Pin=P101-1
+Added Pin To Net: NetName=VCC Pin=Q101-1
+Added Pin To Net: NetName=VCC Pin=R104-1
+Added Net: Name=VCC

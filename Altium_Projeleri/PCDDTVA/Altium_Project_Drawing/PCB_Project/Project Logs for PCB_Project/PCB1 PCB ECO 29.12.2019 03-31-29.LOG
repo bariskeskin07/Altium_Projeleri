@@ -1,0 +1,23 @@
+Change Component Comment : Designator=C3 Old Comment=Cap  New Comment=Cap
+Change Component Designator: OldDesignator=C1 NewDesignator=C101
+Change Component Designator: OldDesignator=C2 NewDesignator=C102
+Change Component Designator: OldDesignator=C3 NewDesignator=C103
+Change Component Designator: OldDesignator=C4 NewDesignator=C104
+Change Component Designator: OldDesignator=C5 NewDesignator=C105
+Change Component Designator: OldDesignator=D1 NewDesignator=D101
+Change Component Designator: OldDesignator=D2 NewDesignator=D102
+Change Component Designator: OldDesignator=Q1 NewDesignator=Q101
+Change Component Designator: OldDesignator=R2 NewDesignator=R102
+Change Component Designator: OldDesignator=R3 NewDesignator=R103
+Change Component Designator: OldDesignator=R4 NewDesignator=R104
+Change Component Designator: OldDesignator=R5 NewDesignator=R105
+Change Component Designator: OldDesignator=R6 NewDesignator=R106
+Change Component Designator: OldDesignator=U1 NewDesignator=U101
+Change Component Designator: OldDesignator=U2 NewDesignator=U102
+Added Pin To Net: NetName=BAT- Pin=C101-2
+Added Pin To Net: NetName=BAT- Pin=CON-2
+Change Net Name : Old Net Name=Net*U101_1 New Net Name=NetR102_2
+Change Net Name : Old Net Name=Net*U101_3 New Net Name=NetC102_1
+Change Net Name : Old Net Name=Net*U101_5 New Net Name=NetR103_1
+Change Net Name : Old Net Name=Net*U102_1 New Net Name=NetL1_2
+Change Net Name : Old Net Name=Net*U102_4 New Net Name=NetR105_2
